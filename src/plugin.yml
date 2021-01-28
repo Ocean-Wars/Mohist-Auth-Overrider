@@ -1,0 +1,3 @@
+name: "AuthOverrider"
+main: fr.oceanwars.authoverrider.AuthOverrider
+version: "1.0.0"
