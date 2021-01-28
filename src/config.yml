@@ -1,6 +1,6 @@
 # The domains that are allowed by mojang.
 # You must put your own domains there.
-# I recommand that you keep the mojang domain and add yours
+# I recommend that you keep the mojang domain and add yours
 # DO NOT REMOVE minecraft.net and mojang.com
 whitelisted_domains:
   - ".minecraft.net"
