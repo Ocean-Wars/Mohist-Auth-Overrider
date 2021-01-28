@@ -1,0 +1,15 @@
+# The domains that are allowed by mojang.
+# You must put your own domains there.
+# I recommand that you keep the mojang domain and add yours
+# DO NOT REMOVE minecraft.net and mojang.com
+whitelisted_domains:
+  - ".minecraft.net"
+  - ".mojang.com"
+
+# Your join url
+# This is the default one used by mojang
+join_url: "https://sessionserver.mojang.com/session/minecraft/join"
+
+# The most important url, this url is used by the server to check if the user is connecting to the server or not
+# This is the default mojang link
+check_url: "https://sessionserver.mojang.com/session/minecraft/hasJoined"
